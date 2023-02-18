@@ -1,2 +1,2 @@
 # my-dumpster-stuff
-Klutzy's unreleased/cancelled/scrapped things
+my things i made that went unfinished or scrapped
